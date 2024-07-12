@@ -1,0 +1,7 @@
+5021;▯▯▯▯;Luka Müller;▯▯▯▯;DE;▯▯▯▯;▯▯▯▯;?;Nürburg
+5022;▯▯▯▯;Astrid Andersson;▯▯▯▯;?;▯▯▯▯;▯▯▯▯;23000;Gothenburg
+?;▯▯▯▯;Edita Keller;▯▯▯▯;CH;▯▯▯▯;▯▯▯▯;415000;Bern
+5024;▯▯▯▯;?;▯▯▯▯;CZ;▯▯▯▯;▯▯▯▯;1;Brno
+5025;▯▯▯▯;García Hernández;▯▯▯▯;ES;▯▯▯▯;▯▯▯▯;?;Valencia
+?;▯▯▯▯;Dorian Lüthi;▯▯▯▯;CH;▯▯▯▯;▯▯▯▯;375000;Chur
+5027;▯▯▯▯;Malvína Straková;▯▯▯▯;CZ;▯▯▯▯;▯▯▯▯;5;?

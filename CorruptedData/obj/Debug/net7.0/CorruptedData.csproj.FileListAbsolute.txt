@@ -1,0 +1,15 @@
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\bin\Debug\net7.0\CorruptedData.exe
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\bin\Debug\net7.0\CorruptedData.deps.json
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\bin\Debug\net7.0\CorruptedData.runtimeconfig.json
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\bin\Debug\net7.0\CorruptedData.dll
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\bin\Debug\net7.0\CorruptedData.pdb
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\obj\Debug\net7.0\CorruptedData.csproj.AssemblyReference.cache
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\obj\Debug\net7.0\CorruptedData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\obj\Debug\net7.0\CorruptedData.AssemblyInfoInputs.cache
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\obj\Debug\net7.0\CorruptedData.AssemblyInfo.cs
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\obj\Debug\net7.0\CorruptedData.csproj.CoreCompileInputs.cache
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\obj\Debug\net7.0\CorruptedData.dll
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\obj\Debug\net7.0\refint\CorruptedData.dll
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\obj\Debug\net7.0\CorruptedData.pdb
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\obj\Debug\net7.0\CorruptedData.genruntimeconfig.cache
+C:\Users\matej\source\repos\CorruptedData\CorruptedData\obj\Debug\net7.0\ref\CorruptedData.dll
